@@ -1,7 +1,7 @@
 import {Component} from 'react'
 import './index.css'
 
-class ClickCounter extends Component {
+class Typing extends Component {
   state = {
     text: true,
     elapsedTime: 0,
@@ -110,4 +110,4 @@ class ClickCounter extends Component {
   }
 }
 
-export default ClickCounter
+export default Typing

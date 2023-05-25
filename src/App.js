@@ -1,7 +1,7 @@
-import ClickCounter from './components/ClickCounter'
+import Typing from './components/Typing'
 
 import './App.css'
 
-const App = () => <ClickCounter />
+const App = () => <Typing />
 
 export default App
