@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://img.freepik.com/free-photo/keyboard-message-text-sms-concept_53876-120449.jpg?w=1060&t=st=1684938671~exp=1684939271~hmac=cef10768b516fafb4c0b2a17014030025fda7fc68e43eada8b19a5bcf0a09e27');
+  height: 100vh;
+  background-size: cover;
+}
